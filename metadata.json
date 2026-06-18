@@ -1,0 +1,6 @@
+{
+  "name": "ABDI AUTOMATION",
+  "description": "SaaS Platform for Automated Brand Identity, Logos, Content Creation, WhatsApp Marketing, and Social Media Marketing Funnels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
